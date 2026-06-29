@@ -1,0 +1,1 @@
+4fa84ce4942ff72d2ba16d1aa17f9250412a8a89337c8a45223daecfa30422a2  releases/android/bv-access-mobile-v1.0.0-rc5-versionCode22-release.apk
