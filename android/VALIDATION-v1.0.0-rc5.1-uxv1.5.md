@@ -34,7 +34,7 @@ No backend, Hybrid API, Supabase, Mini-PC, UniFi, captive portal, voucher, walle
 ## Public Links
 
 APK:
-https://github.com/jpvandal-dev/BV-Access-Mobile-Releases/raw/main/android/bv-access-mobile-v1.0.0-rc5.1-uxv1.5-versionCode29-release.apk
+https://raw.githubusercontent.com/jpvandal-dev/BV-Access-Mobile-Releases/6480dce7b82358ba8184c8396168372e0753b725/android/bv-access-mobile-v1.0.0-rc5.1-uxv1.5-versionCode29-release.apk
 
 QR:
-https://github.com/jpvandal-dev/BV-Access-Mobile-Releases/raw/main/qr/bv-access-mobile-v1.0.0-rc5.1-uxv1.5-versionCode29-download-qr.png
+https://raw.githubusercontent.com/jpvandal-dev/BV-Access-Mobile-Releases/main/qr/bv-access-mobile-v1.0.0-rc5.1-uxv1.5-versionCode29-download-qr.png
