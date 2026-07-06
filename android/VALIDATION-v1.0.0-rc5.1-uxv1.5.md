@@ -4,7 +4,7 @@ Version: 1.0.0-rc5.1-uxv1.5
 Version code: 29
 Package: com.bvsolutions.bvaccess
 APK: bv-access-mobile-v1.0.0-rc5.1-uxv1.5-versionCode29-release.apk
-SHA256: 62772005082c5548d9b3978bb67e3b4ff8a5256e20d29f5d63b82eab6c7f8502
+SHA256: 8ed9fa9efe8dec7f535243c4aa75959a5d908195163d6f69556a3f04aa42227e
 
 ## Scope
 
@@ -28,8 +28,8 @@ No backend, Hybrid API, Supabase, Mini-PC, UniFi, captive portal, voucher, walle
 - TypeScript: PASS (`npm run typecheck`)
 - Android release build: PASS (`./gradlew assembleRelease`)
 - Android manifest: PASS (`versionName=1.0.0-rc5.1-uxv1.5`, `versionCode=29`)
-- APK signing: PASS (`apksigner verify`, APK Signature Scheme v2)
-- SHA256: PASS (`62772005082c5548d9b3978bb67e3b4ff8a5256e20d29f5d63b82eab6c7f8502`)
+- APK signing: PASS (`apksigner verify`, same BV Access Mobile RC1 signing certificate as UX v1.4)
+- SHA256: PASS (`8ed9fa9efe8dec7f535243c4aa75959a5d908195163d6f69556a3f04aa42227e`)
 
 ## Public Links
 
