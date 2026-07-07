@@ -1,0 +1,1 @@
+28023d469eff87e3813e85206b482999d3a3195b699bda6cf7094dc9d9b96764  releases/android/bv-access-mobile-v1.0.0-rc5.1-uxv1.12-versionCode36-release.apk
